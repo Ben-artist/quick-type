@@ -1,0 +1,25 @@
+{
+  "name": "quick-type-backend",
+  "version": "1.0.0",
+  "description": "Node.js Express backend for Quick Type - URL to TypeScript type generator",
+  "main": "dist/index.js",
+  "scripts": {
+    "start": "node dist/index.js",
+    "start:prod": "NODE_ENV=production node dist/index.js"
+  },
+  "keywords": [
+    "typescript",
+    "quicktype",
+    "express",
+    "api",
+    "type-generation"
+  ],
+  "author": "Quick Type Team",
+  "license": "MIT",
+  "dependencies": {
+    "@types/shelljs": "^0.8.17",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "shelljs": "^0.10.0"
+  }
+}

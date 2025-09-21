@@ -1,0 +1,5 @@
+---
+description: 这是一个关于使用quicktype-core构建出的一个根据url输出ts类型的一个项目，backend使用的是express,front使用vite+shadcnUI+react,用户可以输入url,和一些请求头,传入给backend,然后可以让用户看到对应response的ts类型提示,包管理工具是pnpm
+globs:
+alwaysApply: true
+---

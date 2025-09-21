@@ -1,0 +1,6 @@
+backend/node_modules
+front/node_modules
+backend/quick-type-backend-dist.tar.gz
+backend/dist
+front/dist
+backend/logs
